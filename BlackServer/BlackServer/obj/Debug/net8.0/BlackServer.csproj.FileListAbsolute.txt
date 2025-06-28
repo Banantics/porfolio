@@ -1,0 +1,15 @@
+D:\onno1\Documents\Real_World_Interaction\BlackServer\BlackServer\bin\Debug\net8.0\BlackServer.exe
+D:\onno1\Documents\Real_World_Interaction\BlackServer\BlackServer\bin\Debug\net8.0\BlackServer.deps.json
+D:\onno1\Documents\Real_World_Interaction\BlackServer\BlackServer\bin\Debug\net8.0\BlackServer.runtimeconfig.json
+D:\onno1\Documents\Real_World_Interaction\BlackServer\BlackServer\bin\Debug\net8.0\BlackServer.dll
+D:\onno1\Documents\Real_World_Interaction\BlackServer\BlackServer\bin\Debug\net8.0\BlackServer.pdb
+D:\onno1\Documents\Real_World_Interaction\BlackServer\BlackServer\obj\Debug\net8.0\BlackServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\onno1\Documents\Real_World_Interaction\BlackServer\BlackServer\obj\Debug\net8.0\BlackServer.AssemblyInfoInputs.cache
+D:\onno1\Documents\Real_World_Interaction\BlackServer\BlackServer\obj\Debug\net8.0\BlackServer.AssemblyInfo.cs
+D:\onno1\Documents\Real_World_Interaction\BlackServer\BlackServer\obj\Debug\net8.0\BlackServer.csproj.CoreCompileInputs.cache
+D:\onno1\Documents\Real_World_Interaction\BlackServer\BlackServer\obj\Debug\net8.0\BlackServer.sourcelink.json
+D:\onno1\Documents\Real_World_Interaction\BlackServer\BlackServer\obj\Debug\net8.0\BlackServer.dll
+D:\onno1\Documents\Real_World_Interaction\BlackServer\BlackServer\obj\Debug\net8.0\refint\BlackServer.dll
+D:\onno1\Documents\Real_World_Interaction\BlackServer\BlackServer\obj\Debug\net8.0\BlackServer.pdb
+D:\onno1\Documents\Real_World_Interaction\BlackServer\BlackServer\obj\Debug\net8.0\BlackServer.genruntimeconfig.cache
+D:\onno1\Documents\Real_World_Interaction\BlackServer\BlackServer\obj\Debug\net8.0\ref\BlackServer.dll
